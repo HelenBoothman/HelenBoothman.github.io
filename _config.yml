@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: http://localhost:4000
+title: Mill Farm Garden
+locale: en_GB
+description:
+logo: logo.gif
+search: false
+url:
 
 # Jekyll configuration
 
@@ -18,7 +18,6 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
 
 kramdown:
   input: GFM
@@ -28,7 +27,7 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: true
+mathjax: false
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -36,9 +35,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mill Farm Garden
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: boothmanhelen@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username

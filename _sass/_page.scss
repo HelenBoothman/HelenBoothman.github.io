@@ -29,6 +29,10 @@
 
 	@include media($large) {
 		margin-top: -145px; /* move up further to be overlapped by site logo */
+    max-width: 47.5em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 	}
 }
 
