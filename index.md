@@ -2,7 +2,7 @@
 layout: page
 title: 
 image:
-  feature: garden/1.jpg
+  feature: garden/home.jpg
 ---
 
 Set within 3.50 acres, Mill Farm Garden has evolved since approx. 2005.  We have panoramic views across the North Lincolnshire Wolds and the Ancholme Valley.  The garden has been created and maintained by ourselves and we have spent alot of time developing many areas of interest.  We are always of looking for new and exciting plants to help us continue with the development.
