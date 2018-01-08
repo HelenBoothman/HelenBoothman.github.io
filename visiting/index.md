@@ -22,3 +22,5 @@ North Lincolnshire<br/>
 DN38 6AQ<br/>
 01652 628424<br/>
 boothmanhelen@gmail.com
+
+{% include map.html %}
