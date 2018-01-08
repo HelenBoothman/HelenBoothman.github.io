@@ -13,8 +13,6 @@ Refreshments available
 
 Groups welcome by appointment
 
-{% include map.html %}
-
 Mill Farm Garden<br/>
 Brigg Road, Grasby<br/>
 Barnetby<br/>
