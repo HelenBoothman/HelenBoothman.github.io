@@ -3,7 +3,7 @@ layout: page
 title: Visiting information
 ---
 
-Open:- May - August<br/>
+Open:- 1st April - 31st August<br/>
 Thursday and Sunday, plus Bank Holiday Mondays<br/>
 Entry £3.00/person<br/>
 Children free<br/>
@@ -20,5 +20,7 @@ North Lincolnshire<br/>
 DN38 6AQ<br/>
 01652 628424<br/>
 boothmanhelen@gmail.com
+
+Do not turn into the village.  From the Cross Keys travel 200 yards towards Caistor.
 
 {% include map.html %}
