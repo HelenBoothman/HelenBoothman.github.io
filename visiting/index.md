@@ -9,7 +9,7 @@ Entry £3.00/person<br/>
 Children free<br/>
 Dogs welcome<br/>
 Plants for sale<br/>
-Refreshments available
+Self-service refreshments available
 
 Groups welcome by appointment
 
