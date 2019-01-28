@@ -1,28 +1,14 @@
 ---
 layout: page
-title: Events 2018
+title: Events 2019
 ---
 
-Sunday 3rd June
-===============
-National Garden Scheme<br/>
-11.00 a.m. - 4.00 p.m.<br/>
-Entrance £4, children free, dogs welcome<br/>
-Delicious homemade teas<br/>
-Gate proceeds to NGS, tea proceeds to St Andrews Hospice
+We are not holding any Charity Days this year.
 
-Sunday 1st July
-=================
-Barrow Brass Band will be playing in the Garden<br/>
-2.00 - 5.00 p.m.<br/>
-Entrance £3, children free, dogs welcome<br/>
-Delicious homemade teas<br/>
-All gate & tea proceeds to Barrow Brass Band
+You are though, more then welcome to visit the garden on Thursdays, Sundays and Bank Holidays.
 
-Sunday 5th August
-==================
-Lindsey Lodge Hospice<br/>
-11.00 a.m. - 4.00 p.m.<br/>
-Entrance £3, children free, dogs welcome<br/>
-Delicious homemade teas<br/>
-All gate & tea proceeds Lindsey Lodge Hospice
+A donation from these days shall be made to the National Garden Scheme.
+
+For details please see [visiting](/visiting)
+
+
