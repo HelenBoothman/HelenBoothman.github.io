@@ -3,9 +3,9 @@ layout: page
 title: Visiting information
 ---
 
-Open:- 1st April - 31st August<br/>
+Open:- Good Friday, 16th April - 31st August<br/>
 Thursday and Sunday, plus Bank Holiday Mondays<br/>
-Entry £3.00/person<br/>
+Entry £4.00/person<br/>
 Children free<br/>
 Dogs welcome<br/>
 Plants for sale<br/>
