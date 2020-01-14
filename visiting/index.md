@@ -3,7 +3,7 @@ layout: page
 title: Visiting information
 ---
 
-Open:- Good Friday, 10th April - 31st August<br/>
+Open:- Good Friday, 10th April - 31st August 2020<br/>
 Thursday and Sunday, plus Bank Holiday Mondays<br/>
 11.00 a.m. to 4.00 p.m.<br/>
 Entry £4.00/person<br/>
