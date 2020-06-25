@@ -3,7 +3,7 @@ layout: page
 title: Visiting information
 ---
 
-Open:- We are happy to welcome visitors again on a pre-arranged basis.
+We are happy to welcome visitors again on a pre-arranged basis.
 Please telephone & leave a message on the answerphone or drop me an email.
 We shall reply at our earliest possible convenience.
 
