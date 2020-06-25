@@ -3,14 +3,18 @@ layout: page
 title: Visiting information
 ---
 
-Open:- Closed for the foreseeable future<br/>
+Open:- We are happy to welcome visitors again on a pre-arranged basis.
+Please telephone & leave a message on the answerphone or drop me an email.
+We shall reply at our earliest possible convenience.
 
-
+Free entrance for this year
 Dogs welcome<br/>
-Plants for sale<br/>
-Self-service refreshments available
+No Plants For Sale this year
+No refreshments available
+Toilet facilities available
+We are quite happy for you to bring a picnic into the garden.
 
-Groups welcome by appointment
+Groups welcome by appointment - next year
 
 Mill Farm Garden<br/>
 Brigg Road, Grasby<br/>
