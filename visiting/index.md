@@ -10,6 +10,8 @@ Sunday 2nd May until 30th August
 Every Thursday, Sunday and Bank Holiday
 
 11.00 a.m. - 4.00 p.m.
+
+Entrance - £4.00
   
 Dogs welcome.<br/>
 Plants for sale  
