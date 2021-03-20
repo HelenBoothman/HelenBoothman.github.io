@@ -28,6 +28,6 @@ boothmanhelen@gmail.com
 
 Do not turn into the village.  From the Cross Keys travel 200 yards towards Caistor.
 
-All the above is subject to any Government Covid Restrictions    
+All the above is subject to any Government Covid Restrictions     
 
 {% include map.html %}
