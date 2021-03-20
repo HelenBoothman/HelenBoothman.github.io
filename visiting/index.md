@@ -10,11 +10,11 @@ Every Thursday, Sunday and Bank Holiday<br/>
 11.00 a.m. - 4.00 p.m.<br/>
 Entrance - £4.00<br/>
   
-Dogs welcome.<br/>
+Dogs welcome<br/>
 Plants for sale  
 Self service refreshments available  
 Toilet facilities available  
-We are quite happy for you to bring a picnic into the garden.
+We are quite happy for you to bring a picnic into the garden
 
 Groups welcome by appointment - please telephone 01652 628424 to arrange
 
