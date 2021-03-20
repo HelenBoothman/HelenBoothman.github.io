@@ -3,8 +3,12 @@ layout: page
 title: Visiting information
 ---
 
-2021 Opening Sunday 2nd May until 30th August 
+2021 Opening
+
+Sunday 2nd May until 30th August
+
 Every Thursday, Sunday and Bank Holiday
+
 11.00 a.m. - 4.00 p.m.
   
 Dogs welcome.<br/>
