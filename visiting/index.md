@@ -6,11 +6,8 @@ title: Visiting information
 2021 Opening
 
 Sunday 2nd May until 30th August
-
 Every Thursday, Sunday and Bank Holiday
-
 11.00 a.m. - 4.00 p.m.
-
 Entrance - £4.00
   
 Dogs welcome.<br/>
@@ -30,5 +27,7 @@ DN38 6AQ<br/>
 boothmanhelen@gmail.com
 
 Do not turn into the village.  From the Cross Keys travel 200 yards towards Caistor.
+
+All the above is subject to any Government Covid Restrictions
 
 {% include map.html %}
