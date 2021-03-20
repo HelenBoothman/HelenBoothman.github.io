@@ -3,18 +3,17 @@ layout: page
 title: Visiting information
 ---
 
-We are happy to welcome visitors again on a pre-arranged basis.
-Please telephone & leave a message on the answerphone or drop me an email.
-We shall reply at our earliest possible convenience.
-
-Free entrance for this year.  
+2021 Opening Sunday 2nd May until 30th August 
+Every Thursday, Sunday and Bank Holiday
+11.00 a.m. - 4.00 p.m.
+  
 Dogs welcome.<br/>
-No Plants For Sale this year.  
-No refreshments available.  
-Toilet facilities available.  
+Plants for sale  
+Self service refreshments available  
+Toilet facilities available  
 We are quite happy for you to bring a picnic into the garden.
 
-Groups welcome by appointment - next year
+Groups welcome by appointment - please telephone 01652 628424 to arrange
 
 Mill Farm Garden<br/>
 Brigg Road, Grasby<br/>
